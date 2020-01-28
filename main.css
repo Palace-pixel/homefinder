@@ -1,0 +1,235 @@
+.background {
+    background-image: url("image/home.JPG");
+    height: 650px;
+    width: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 7px;
+    background-position: center;
+       
+}
+.logo img{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+
+
+.topnav {
+    background-color: white;
+    overflow: hidden;
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    
+    
+}
+
+
+.topnav a {
+        float: left;                  
+        color: rgb(14, 13, 13);
+        text-align: center;
+        padding: 14px 10px;
+        text-decoration: none;
+        font-size: 15px;
+        font-family:  sans-serif;
+
+    }
+.navright {
+    float: right;
+    color: white;
+}
+
+
+.h1 {
+    color: black;
+    margin-bottom: 70px;
+    font-size: 45px;
+    letter-spacing: 2px;
+    
+}
+.search-field {
+    height: 50px;
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    outline: none;
+}
+.business {
+    width: 400px;
+}
+.location {
+    width: 200px;
+}
+.search-btn {
+    height: 50px;
+    width: 150px;
+    background: orangered;
+    border: none;
+    color: #000;
+    border-radius: 25px;
+}
+.search-btn:hover{
+    background: rgb(152, 152, 233);
+    cursor: pointer;
+}
+.form-box {
+ background: rgb(0,0,0,);
+ position: absolute;
+width: 1200px;
+align-items: center;
+justify-content: center;
+padding-top: 350px;
+padding-left: 300px;
+}
+.form-box h1 {
+    text-align: center;
+    position: relative;
+    color: white;
+    font-family: sans-serif;
+    font-size: 50px;
+    padding-right: 100px;
+}
+.box {
+    height: 200px;
+    width: auto;
+    margin-top: 20px;
+}
+.box h1 {
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(78, 78, 214);
+    font-size: 30px;
+    
+}
+.box h2 {
+    text-align: center;
+    color: rgb(78, 78, 214);
+    font-size: 20px;
+    font-style: italic;
+    
+}
+.butt {
+    padding:8px 15px;
+    font-size: 10px;
+    background-color: orangered;
+    color:white;
+    border-radius: 50px;
+    border:1px solid white;
+    margin-left: 615px;
+    align-self: center;
+    align-content: center;
+
+}.butt:hover{
+    background: rgb(152, 152, 233);
+    cursor: pointer;
+}
+.box2 {
+    height: 500px;
+    width: auto;
+    margin-top: 40px;
+    padding-top: 100px;
+    background-color: rgb(212, 208, 208);
+}
+.box2 h2 {
+    text-align: center;
+    padding-bottom: 40px;
+}
+.first {
+    height: 300px;
+    width: 300px;
+    background-position: center;
+    float:right;
+    margin-right: 40px;
+   
+}
+.button {
+    padding:8px 15px;
+    font-size: 10px;
+    background-color: gray;
+    color:white;
+    border:1px solid gray;
+    align-self: center;
+    align-content: center;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.first img {
+   
+    padding-left: 45px;
+}
+.second {
+    height: 300px;
+    width: 300px;
+    background-position: center;
+    float:right;
+    margin-right: 180px;
+   
+}
+.second img {
+    padding-left: 45px;
+}
+.third {
+    height: 300px;
+    width: 300px;
+    float:left;
+    margin-left: 40px;
+  
+}
+.third img {
+    padding-left: 45px;
+}
+.box3{
+    height: 500px;
+   width: 100%;
+   background-color: ffffff;
+   padding-top: 70px;
+   
+
+}
+.contact-info {
+ width: 500px;
+ height: 400px;
+ float: right;
+ padding-left: 20px;
+ margin-right: 30px;
+}
+.get-in-touch {
+   width: 400px;
+   height: 300px;
+   float: left;
+   padding-left: 60px;
+   
+
+}
+.get-in-touch h1{
+   font-family: arial, sans-serif;
+   color: #000;
+}
+.get-in-touch p{
+   font-family: Arial, sans-serif;
+   font-size: 18px;
+   color: #000;
+}
+
+
+.footer{
+   width: auto;
+   height: 150px;
+   background-color: rgb(212, 208, 208);
+   text-align: center;
+   padding-top: 60px;
+   margin-top: 30px;
+}
+.footer p{
+   font-size: 12px;
+ letter-spacing: 0.1em;
+ font-weight: 500;
+ margin-top: 0;
+ text-transform: uppercase;
+ color: #000;
+}
+.footer a{
+   text-decoration: none;
+   font-size: 17px;
+}
+.
